@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @mohamad-askri
 - 👀 I’m interested in (videogames, programming, AI)
 - 🌱 I’m currently learning (web development)
 - 
