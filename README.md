@@ -1,5 +1,5 @@
-- 👀 I’m interested in (videogames, programming, AI)
-- 🌱 I’m currently learning (web development)
+- I’m interested in (videogames, programming, AI)
+-  I’m currently learning (web development)
 - 
 <!---
 mohamad-askri/mohamad-askri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
