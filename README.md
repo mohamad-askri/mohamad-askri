@@ -1,7 +1,7 @@
 - I’m interested in (videogames, programming, AI)
 -  I’m currently learning (web development)
  <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://freeicons.io/seo/code-coding-html-php-program-icon-12804" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 <!---
 mohamad-askri/mohamad-askri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
